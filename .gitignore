@@ -6,4 +6,6 @@
 *.snm
 *.toc
 *.gz
+*.bbl
+*.blg
 *.DS_Store
